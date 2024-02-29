@@ -4,6 +4,6 @@ The objective is to build an ETL pipeline orchestrated using Apache Airflow. Ext
 ## Pipeline Architecture
 <img width="761" alt="spotify_etl_diagram" src="https://github.com/devallasaitej/Spotify_ETL_Airflow/assets/64268620/c6163f70-4a81-4bd6-91bb-517db7febc40">
 ## Airflow DAG
-<img width="1460" alt="AirflowDAG" src="https://github.com/devallasaitej/Spotify_ETL_Airflow/assets/64268620/5d3c3da1-d02a-4d99-ad5c-f2e304ff12c7">
+<img width="761" alt="AirflowDAG" src="https://github.com/devallasaitej/Spotify_ETL_Airflow/assets/64268620/5d3c3da1-d02a-4d99-ad5c-f2e304ff12c7">
 ## Final Postgres Table
 <img width="1151" alt="PSQL" src="https://github.com/devallasaitej/Spotify_ETL_Airflow/assets/64268620/6876d77b-1343-4c86-9688-58c457fc412e">
