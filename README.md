@@ -1,6 +1,6 @@
 # Spotify ETL Pipeline using Python & Airflow
 ## Overview
-The objective is to build an ETL pipeline orchestrated using Apache Airflow. Extract data from Spotify using Spotify's Web API, transform extracted data using Python and load into Postgres database.
+The objective is to build an ETL pipeline orchestrated using Apache Airflow. Extract data from Spotify using Spotify's Web API, transform extracted data using Python and finally load data into Postgres database.
 ## Pipeline Architecture
 <img width="761" alt="spotify_etl_diagram" src="https://github.com/devallasaitej/Spotify_ETL_Airflow/assets/64268620/c6163f70-4a81-4bd6-91bb-517db7febc40">
 
